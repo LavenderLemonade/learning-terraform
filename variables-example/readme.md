@@ -7,7 +7,7 @@ long story short, there's different types of them:
 - local
     - local<name>
     - for local things, like names of services or owner
--output
+- output
     - can be used for things we need returned from a teraform config
     - such as getting the ips for databases/EC2 instances so we can connect other things
 
